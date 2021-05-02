@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Make Food with recipes cooking!!</string>
+    <string name="recipeName">Recipe Name</string>
+    <string name="ingredients">Ingredients</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strLogin">Hello blank fragment</string>
+    <string name="strPassword">Hello blank fragment</string>
+</resources>
